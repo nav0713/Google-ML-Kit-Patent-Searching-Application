@@ -14,5 +14,5 @@ A mobile application that can retrieve relevant patent data of an object using o
         <img src="https://github.com/nav0713/images/blob/master/5.png" width="200" height="400" alt="accessibility text">
   </div>
 
-<a href="https://youtu.be/QLbSdAB7vDQ">Watch Demo Video Here</a>
+<center><a href="https://youtu.be/QLbSdAB7vDQ">Watch Demo Video Here</a></center>
 
