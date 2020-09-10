@@ -2,4 +2,4 @@
 
 Application Demo
 
-[![Watch the video]](https://youtu.be/zNUEeUqiyDc)
+[Watch the demo here](https://youtu.be/zNUEeUqiyDc)
