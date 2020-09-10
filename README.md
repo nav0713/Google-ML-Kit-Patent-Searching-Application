@@ -1,6 +1,6 @@
 # Google-ML-Kit-Patent-Searching-Application
 
-A mobile application that can retrieve relevant patent data of an image.
+A mobile application that can retrieve relevant patent data of an object using object recognition and patent keyword search.
 
 Application Demo
 
