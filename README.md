@@ -2,7 +2,7 @@
 
 A mobile application that can retrieve relevant patent data of an object using object recognition and patent keyword search.
 
-
+<center><a href="https://youtu.be/QLbSdAB7vDQ">Watch Demo Video Here</a></center>
 # Screenshots
    <div style=display="inline-block";>
     <img src="https://github.com/nav0713/images/blob/master/9.png" width="200" height="400" title="hover text">
@@ -14,5 +14,5 @@ A mobile application that can retrieve relevant patent data of an object using o
         <img src="https://github.com/nav0713/images/blob/master/5.png" width="200" height="400" alt="accessibility text">
   </div>
 
-<center><a href="https://youtu.be/QLbSdAB7vDQ">Watch Demo Video Here</a></center>
+
 
